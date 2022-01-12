@@ -1,6 +1,10 @@
 ---
-title: TARIK
-subtitle: Support sustainable farming while enjoying a cup
+title: CONTEXTE
+subtitle: "Entreprise spécialisé dans le développement de site web qui souhaite
+  internaliser le processus de signature de certificats des sites web produit
+  pour ses clients, en utilisant les infrastructures de sa société mère en
+  Allemagne. Ainsi que de fluidifier ses processus de développement web à l’aide
+  des technologies de containerisation.    "
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
