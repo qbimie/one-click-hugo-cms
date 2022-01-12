@@ -1,7 +1,7 @@
 ---
 title: Edustream
 subtitle: Entreprise spécialisé dans le développement de site web
-image: https://forum-alternance.fr/wordpress/wp-content/uploads/2017/04/IMIE-Logo-IMIE-750x343.png
+image: https://images.b-reputation.com/logo_httpswwwimieparisfrwpcontentuploads202002croppedlogoimiebpng_ECL2HOVAOCK3M9V8G3B6_.png
 blurb:
   heading: Le projet
   text: Entreprise spécialisé dans le développement de site web qui souhaite
